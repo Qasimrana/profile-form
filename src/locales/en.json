@@ -1,0 +1,11 @@
+{
+  "profileForm": {
+    "name": "Profile Form",
+    "email": "Email",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "save": "Save",
+    "imageText": "Release to drop files here.",
+    "placeImageText": "Drop files here or click here to upload."
+}
+}
